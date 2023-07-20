@@ -1,0 +1,21 @@
+{
+  "name": "scalability-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "rosie": "^2.1.0",
+    "uuid": "^9.0.0"
+  }
+}
